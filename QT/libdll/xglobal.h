@@ -29,3 +29,4 @@
 #endif
 
 #endif // XGLOBAL_H
+#include <isostream>
