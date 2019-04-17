@@ -15,3 +15,4 @@ CONFIG(debug,debug|release){
     TARGET=libdll
 }
 message($$TARGET)
+XXXXXXXX
