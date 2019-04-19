@@ -4,3 +4,4 @@
 [submodule "time-tracker"]
 	path = time-tracker
 	url = https://github.com/RegJen/time-tracker.git
+	branch = update-pom
